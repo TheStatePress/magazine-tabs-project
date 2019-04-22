@@ -1,3 +1,7 @@
+Update the code: Commit, Push, yarn deploy (deploy updates the website)
+
+watch flexbox tutorials. Use vw for tabs, em/rem is connected font size.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

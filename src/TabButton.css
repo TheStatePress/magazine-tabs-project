@@ -1,11 +1,12 @@
 .TabButton{
     display: inline-block;
-    padding: 15rem 0, 15rem 0;
-    padding-right: 4vh;
-    padding-left: 4vh;
-    padding-top: 1vh;
+    padding: 15rem , 15rem 0;
+    padding-right: 10vw;
+    padding-left: 10vw;
+    padding-top: 1vw;
     padding-bottom: 1vh;
-    margin: 2rem 0;
+    margin: 1vw 0;
+
     /* border: 2px  solid palevioletred; */
     background: transparent;
     color: #2C363F;

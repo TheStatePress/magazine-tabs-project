@@ -43,12 +43,10 @@ class App extends Component {
 
           </TabContainer>
           <TabContainer currentTab={this.state.currentTab} tabNumber={2}>
-            this is tab two content
-            <img src={img1} alt='graph'></img>
+            <img src={img1} width='800ev' alt='graph'></img>
           </TabContainer>
           <TabContainer currentTab={this.state.currentTab} tabNumber={3}>
-            this is tab three content
-            <img src={img2} width="500ev" alt="United States"></img>
+            <img src={img2} width="800ev" alt="United States"></img>
           </TabContainer>
           <TabContainer currentTab={this.state.currentTab} tabNumber={4}>
             this is tab four content
