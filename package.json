@@ -2,6 +2,7 @@
   "name": "mag-tabs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://thestatepress.github.io/magazine-tabs-project",
   "dependencies": {
     "classnames": "^2.2.6",
     "react": "^16.8.6",
@@ -12,7 +13,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "yarn build && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -23,5 +25,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "devDependencies": {}
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
