@@ -5,6 +5,7 @@ import TabButton from './TabButton';
 import TabContainer from './TabContainer';
 import img1 from './bargraph.jpeg';
 import img2 from './usmap.png';
+import img3 from './iceland_map.png'
 //tab changes 2
 // import beeg from url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreview.redd.it%2Faoh4z6fwold21.png%3Fauto%3Dwebp%26s%3D235ccc0f2b4b68b909d18dea301fb828e4e79451&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Fvideogamedunkey%2Fcomments%2Falfh67%2Fbeeg_beeg_yoshi%2F&docid=H_4Zi1Xfi07Z5M&tbnid=yFINRX5trk4UNM%3A&vet=10ahUKEwjnzt2Hm9vhAhX7FTQIHeR8AFgQMwg_KAAwAA..i&w=420&h=413&bih=898&biw=840&q=beeg%20yoshi&ved=0ahUKEwjnzt2Hm9vhAhX7FTQIHeR8AFgQMwg_KAAwAA&iact=mrc&uact=8);
 //import logo from './logo.png'
@@ -40,17 +41,17 @@ class App extends Component {
         <div>
           <TabContainer currentTab={this.state.currentTab} tabNumber={1}>
             An important Atom Uwu
-            <img src={logo} wdith='800ev' alt='atom'></img>
+            <img src={logo} wdith='500ev' alt='atom'></img>
 
           </TabContainer>
           <TabContainer currentTab={this.state.currentTab} tabNumber={2}>
-            <img src={img1} width='800ev' alt='graph'></img>
+            <img src={img1} width='700ev' alt='graph'></img>
           </TabContainer>
           <TabContainer currentTab={this.state.currentTab} tabNumber={3}>
-            <img src={img2} width="800ev" alt="United States"></img>
+            <img src={img2} width="600ev" alt="United States"></img>
           </TabContainer>
           <TabContainer currentTab={this.state.currentTab} tabNumber={4}>
-            this is tab four content
+          <img src={img3} width="650ev" alt="Iceland"></img>
             {/* <img src={beeg}></img> */}
         </TabContainer>
         </div>
