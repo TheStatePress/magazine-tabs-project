@@ -1,15 +1,16 @@
 {
-  "main.css": "/magazine-tabs-project/static/css/main.499a0b97.chunk.css",
-  "main.js": "/magazine-tabs-project/static/js/main.bc510c2d.chunk.js",
-  "main.js.map": "/magazine-tabs-project/static/js/main.bc510c2d.chunk.js.map",
+  "main.css": "/magazine-tabs-project/static/css/main.f7890296.chunk.css",
+  "main.js": "/magazine-tabs-project/static/js/main.3c842e65.chunk.js",
+  "main.js.map": "/magazine-tabs-project/static/js/main.3c842e65.chunk.js.map",
   "runtime~main.js": "/magazine-tabs-project/static/js/runtime~main.d325b1a2.js",
   "runtime~main.js.map": "/magazine-tabs-project/static/js/runtime~main.d325b1a2.js.map",
-  "static/js/2.47a91485.chunk.js": "/magazine-tabs-project/static/js/2.47a91485.chunk.js",
-  "static/js/2.47a91485.chunk.js.map": "/magazine-tabs-project/static/js/2.47a91485.chunk.js.map",
+  "static/js/2.488722b3.chunk.js": "/magazine-tabs-project/static/js/2.488722b3.chunk.js",
+  "static/js/2.488722b3.chunk.js.map": "/magazine-tabs-project/static/js/2.488722b3.chunk.js.map",
   "index.html": "/magazine-tabs-project/index.html",
-  "precache-manifest.8605be5333803b23ae4ff1954efbb330.js": "/magazine-tabs-project/precache-manifest.8605be5333803b23ae4ff1954efbb330.js",
+  "precache-manifest.18b9c13cbd09612be9a36fa0bed72cec.js": "/magazine-tabs-project/precache-manifest.18b9c13cbd09612be9a36fa0bed72cec.js",
   "service-worker.js": "/magazine-tabs-project/service-worker.js",
-  "static/css/main.499a0b97.chunk.css.map": "/magazine-tabs-project/static/css/main.499a0b97.chunk.css.map",
+  "static/css/main.f7890296.chunk.css.map": "/magazine-tabs-project/static/css/main.f7890296.chunk.css.map",
+  "static/media/iceland_map.png": "/magazine-tabs-project/static/media/iceland_map.5a3b0b98.png",
   "static/media/logo.svg": "/magazine-tabs-project/static/media/logo.5d5d9eef.svg",
   "static/media/usmap.png": "/magazine-tabs-project/static/media/usmap.fc402592.png"
 }
