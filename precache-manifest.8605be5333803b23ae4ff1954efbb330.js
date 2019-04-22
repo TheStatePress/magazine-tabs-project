@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/magazine-tabs-project/static/js/runtime~main.d325b1a2.js"
   },
   {
-    "revision": "8cc90566ae34a16bacb8",
-    "url": "/magazine-tabs-project/static/js/main.f2608d30.chunk.js"
+    "revision": "2db32b800372be24ddd0",
+    "url": "/magazine-tabs-project/static/js/main.bc510c2d.chunk.js"
   },
   {
     "revision": "4ea327850c9ec1c21b9d",
     "url": "/magazine-tabs-project/static/js/2.47a91485.chunk.js"
   },
   {
-    "revision": "8cc90566ae34a16bacb8",
-    "url": "/magazine-tabs-project/static/css/main.1b115bee.chunk.css"
+    "revision": "2db32b800372be24ddd0",
+    "url": "/magazine-tabs-project/static/css/main.499a0b97.chunk.css"
   },
   {
-    "revision": "742b7c5201bda036a31e529ee82b7e9d",
+    "revision": "7f81b9115d56ea841d8da765d6ab75a7",
     "url": "/magazine-tabs-project/index.html"
   }
 ];
