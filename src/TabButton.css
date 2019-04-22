@@ -1,13 +1,20 @@
 .TabButton{
     display: inline-block;
-    padding: 0.5rem 0;
-    margin: 0.5rem 1;
+    padding: 15rem 0, 15rem 0;
+    padding-right: 4vh;
+    padding-left: 4vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    margin: 2rem 0;
+    /* border: 2px  solid palevioletred; */
     background: transparent;
-    color: white;
-    border: 2px solid black;
-    border-width: 1px 1px 0px 1px;
+    color: #2C363F;
+    border-bottom: 5px #F3DFA2;
+    border: 5px solid Transparent;
+    
+    border-width:2px 2px 0px 2px;
     transition: all .2s;
 }
 .TabButton.active{
-    background: orange;
+    background: #F3DFA2;
 }
