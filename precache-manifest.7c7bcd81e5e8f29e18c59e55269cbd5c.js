@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/magazine-tabs-project/static/js/runtime~main.d325b1a2.js"
   },
   {
-    "revision": "013c7186552dba3957b5",
+    "revision": "5f7f1025e253bc7a1a69",
     "url": "/magazine-tabs-project/static/js/main.96da592e.chunk.js"
   },
   {
@@ -28,11 +28,11 @@ self.__precacheManifest = [
     "url": "/magazine-tabs-project/static/js/2.8c19e069.chunk.js"
   },
   {
-    "revision": "013c7186552dba3957b5",
-    "url": "/magazine-tabs-project/static/css/main.f7890296.chunk.css"
+    "revision": "5f7f1025e253bc7a1a69",
+    "url": "/magazine-tabs-project/static/css/main.2b4e51f8.chunk.css"
   },
   {
-    "revision": "e393ad856c82ac9642ea63549143c970",
+    "revision": "eac25caab5a4af017921504f7d35943a",
     "url": "/magazine-tabs-project/index.html"
   }
 ];
