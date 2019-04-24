@@ -1,16 +1,17 @@
 {
   "main.css": "/magazine-tabs-project/static/css/main.f7890296.chunk.css",
-  "main.js": "/magazine-tabs-project/static/js/main.3c842e65.chunk.js",
-  "main.js.map": "/magazine-tabs-project/static/js/main.3c842e65.chunk.js.map",
+  "main.js": "/magazine-tabs-project/static/js/main.a169339d.chunk.js",
+  "main.js.map": "/magazine-tabs-project/static/js/main.a169339d.chunk.js.map",
   "runtime~main.js": "/magazine-tabs-project/static/js/runtime~main.d325b1a2.js",
   "runtime~main.js.map": "/magazine-tabs-project/static/js/runtime~main.d325b1a2.js.map",
-  "static/js/2.488722b3.chunk.js": "/magazine-tabs-project/static/js/2.488722b3.chunk.js",
-  "static/js/2.488722b3.chunk.js.map": "/magazine-tabs-project/static/js/2.488722b3.chunk.js.map",
+  "static/js/2.8c19e069.chunk.js": "/magazine-tabs-project/static/js/2.8c19e069.chunk.js",
+  "static/js/2.8c19e069.chunk.js.map": "/magazine-tabs-project/static/js/2.8c19e069.chunk.js.map",
   "index.html": "/magazine-tabs-project/index.html",
-  "precache-manifest.18b9c13cbd09612be9a36fa0bed72cec.js": "/magazine-tabs-project/precache-manifest.18b9c13cbd09612be9a36fa0bed72cec.js",
+  "precache-manifest.beae26a50e60a66a98771bdb577fb6ca.js": "/magazine-tabs-project/precache-manifest.beae26a50e60a66a98771bdb577fb6ca.js",
   "service-worker.js": "/magazine-tabs-project/service-worker.js",
   "static/css/main.f7890296.chunk.css.map": "/magazine-tabs-project/static/css/main.f7890296.chunk.css.map",
-  "static/media/iceland_map.png": "/magazine-tabs-project/static/media/iceland_map.5a3b0b98.png",
+  "static/media/dataset1.png": "/magazine-tabs-project/static/media/dataset1.3051a821.png",
+  "static/media/dataset2.png": "/magazine-tabs-project/static/media/dataset2.2cf68493.png",
   "static/media/logo.svg": "/magazine-tabs-project/static/media/logo.5d5d9eef.svg",
-  "static/media/usmap.png": "/magazine-tabs-project/static/media/usmap.fc402592.png"
+  "static/media/pinkmap.png": "/magazine-tabs-project/static/media/pinkmap.601fbd1a.png"
 }
