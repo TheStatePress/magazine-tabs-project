@@ -32,15 +32,15 @@ class App extends Component {
     return (
       <div className="App">
         <div>
-          <TabButton tabNumber={1} currentTab={currentTab} onTabSwitch={this.makeOnTabSwitch(1)} label="Tab 1" />
-          <TabButton tabNumber={2} currentTab={currentTab} onTabSwitch={this.makeOnTabSwitch(2)} label="Tab 2" />
-          <TabButton tabNumber={3} currentTab={currentTab} onTabSwitch={this.makeOnTabSwitch(3)} label="Tab 3" />
+          <TabButton tabNumber={1} currentTab={currentTab} onTabSwitch={this.makeOnTabSwitch(1)} label="Sustainability Map" />
+          <TabButton tabNumber={2} currentTab={currentTab} onTabSwitch={this.makeOnTabSwitch(2)} label="Second Nature Data" />
+          <TabButton tabNumber={3} currentTab={currentTab} onTabSwitch={this.makeOnTabSwitch(3)} label="ASU's Performance" />
           {/* <TabButton tabNumber={4} currentTab={currentTab} onTabSwitch={this.makeOnTabSwitch(4)} label="Tab 4" /> */}
           {/* <h2>we're on tab: {this.state.currentTab}</h2> */}
         </div>
         <div>
           <TabContainer currentTab={this.state.currentTab} tabNumber={1}>
-            <img src={img1} width='575ev' alt='graph'></img>
+            <img src={img1} width='565ev' alt='graph'></img>
             {/* <img src={logo} wdith='500ev' alt='atom'></img> */}
             
           </TabContainer>
@@ -48,7 +48,7 @@ class App extends Component {
             <img src={img2} width="650ev" alt="United States"></img>
           </TabContainer>
           <TabContainer currentTab={this.state.currentTab} tabNumber={3}>
-          <img src={img3} width="575ev" alt="United States"></img>
+          <img src={img3} width="560ev" alt="United States"></img>
           </TabContainer>
           {/* <TabContainer currentTab={this.state.currentTab} tabNumber={4}>
           <img src={img3} width="650ev" alt="Iceland"></img>
