@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/magazine-tabs-project/precache-manifest.beae26a50e60a66a98771bdb577fb6ca.js"
+  "/magazine-tabs-project/precache-manifest.7be3562936adbb79f42b0f446cd5a72b.js"
 );
 
 workbox.clientsClaim();
